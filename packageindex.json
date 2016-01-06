@@ -1,0 +1,8 @@
+{
+  "Name": "AvalonStudio.Toolchains.LLilum",
+  "Description": "Experimental LLilum Toolchain for Windows, allows C# to be compiled for microcontrollers.",
+  "RepoUrl": "https://github.com/VitalElement/AvalonStudio.Toolchains.LLilum.git",
+  "Tags": [
+    "Win32-Slow-v0.01-0.0.1"
+  ]
+}
